@@ -9,7 +9,7 @@
 ```
 flutter pub get
 ```
-安裝相關套件
+
 3. flutter run 執行專案
 
 [online documentation](https://flutter.dev/docs)
