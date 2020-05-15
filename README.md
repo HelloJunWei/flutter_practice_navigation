@@ -1,16 +1,16 @@
 # nav_app
 
-A new Flutter project.
+練習 flutter navigation 以及 state management.
 
 ## Getting Started
+1. 須先安裝 flutter 
+- [安裝網址](https://flutter.dev/docs/get-started/install)
+2. 到該目錄下後 執行:
+```
+flutter pub get
+```
+安裝相關套件
+3. flutter run 執行專案
 
-This project is a starting point for a Flutter application.
+[online documentation](https://flutter.dev/docs)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
